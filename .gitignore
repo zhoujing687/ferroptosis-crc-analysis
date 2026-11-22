@@ -1,0 +1,26 @@
+# Local session files and credentials
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.env
+.env.*
+Thumbs.db
+.DS_Store
+
+# External TCGA downloads; provenance and access instructions are in README.md
+/S1_File/02_Input_Data/TCGA-COAD.star_tpm.tsv.gz
+/S1_File/02_Input_Data/gencode.v36.annotation.gtf.gene.probemap
+
+# New runs; keep archived reference outputs tracked
+/runs/
+/S1_File/04_Recomputed_Outputs/
+/S1_File/04_Recomputed_Baseline/
+/S2_File/04_Recomputed_Outputs/
+/S2_File/04_Recomputed_PCA/
+/S2_File/04_Figure10_DE_single_panels/
+/S3_File/Figures_PNG/
+/S3_File/Figures_TIFF/*_Redrawn.tiff
+/Figure10_Redrawn/
+/Testing_Inventory/
