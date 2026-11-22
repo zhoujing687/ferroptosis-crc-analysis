@@ -1,0 +1,10 @@
+"","OxR_HCT116_vs_HT29","OxR_HCT116_vs_LoVo","SN38R_HCT116_vs_HT29","SN38R_HCT116_vs_LoVo","DrugSpecificity_HCT116_vs_HT29","DrugSpecificity_HCT116_vs_LoVo"
+"HCT116_Parental",-1,-1,-1,-1,0,0
+"HCT116_OxR",1,1,0,0,1,1
+"HCT116_SN38R",0,0,1,1,-1,-1
+"HT29_Parental",1,0,1,0,0,0
+"HT29_OxR",-1,0,0,0,-1,0
+"HT29_SN38R",0,0,-1,0,1,0
+"LoVo_Parental",0,1,0,1,0,0
+"LoVo_OxR",0,-1,0,0,0,-1
+"LoVo_SN38R",0,0,0,-1,0,1

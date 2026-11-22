@@ -1,0 +1,21 @@
+"test","numerator_df","denominator_df","F_statistic","p_value","n","score","analysis_role","p_adjusted_BH_prespecified_family"
+"OxR_cell_line_heterogeneity",2,12,1.4973859496372,0.262692875467923,18,"P","Primary framework",0.347331371955818
+"SN38R_cell_line_heterogeneity",2,12,1.37718695160908,0.289442809963182,18,"P","Primary framework",0.347331371955818
+"Drug_specificity_cell_line_heterogeneity",2,12,1.81660181263207,0.20455003972055,18,"P","Primary framework",0.343692072059449
+"Global_cell_line_by_treatment_interaction",4,18,1.55461503870742,0.229128048039632,27,"P","Primary framework",0.343692072059449
+"OxR_cell_line_heterogeneity",2,12,1.20604065750859,0.333217079320624,18,"B_NQO1","Primary framework",0.363509541077044
+"SN38R_cell_line_heterogeneity",2,12,9.33005112605966,0.00359456120565501,18,"B_NQO1","Primary framework",0.01437824482262
+"Drug_specificity_cell_line_heterogeneity",2,12,13.5828867334146,0.000827269914271214,18,"B_NQO1","Primary framework",0.00496361948562728
+"Global_cell_line_by_treatment_interaction",4,18,8.46962032708035,0.000501171499073977,27,"B_NQO1","Primary framework",0.00496361948562728
+"OxR_cell_line_heterogeneity",2,12,3.24808625201991,0.0745755170507757,18,"I_NQO1","Primary framework",0.178981240921862
+"SN38R_cell_line_heterogeneity",2,12,0.468709443987922,0.636797920415177,18,"I_NQO1","Primary framework",0.636797920415177
+"Drug_specificity_cell_line_heterogeneity",2,12,4.0433731462896,0.0454600502070479,18,"I_NQO1","Primary framework",0.136380150621144
+"Global_cell_line_by_treatment_interaction",4,18,2.24302750938648,0.104858610650392,27,"I_NQO1","Primary framework",0.209717221300783
+"OxR_cell_line_heterogeneity",2,12,1.41598285167044,0.280475674376919,18,"B_NFE2L2","Sensitivity",0.320543627859336
+"SN38R_cell_line_heterogeneity",2,12,10.1847718360863,0.00259578079083221,18,"B_NFE2L2","Sensitivity",0.0069220821088859
+"Drug_specificity_cell_line_heterogeneity",2,12,10.4980022701578,0.00231376553735016,18,"B_NFE2L2","Sensitivity",0.0069220821088859
+"Global_cell_line_by_treatment_interaction",4,18,7.38147714576125,0.00105694390609992,27,"B_NFE2L2","Sensitivity",0.0069220821088859
+"OxR_cell_line_heterogeneity",2,12,4.2529518591434,0.0401618761854373,18,"I_NFE2L2","Sensitivity",0.0803237523708746
+"SN38R_cell_line_heterogeneity",2,12,1.04391757670794,0.381963539681319,18,"I_NFE2L2","Sensitivity",0.381963539681319
+"Drug_specificity_cell_line_heterogeneity",2,12,3.56157271715308,0.0610564442665596,18,"I_NFE2L2","Sensitivity",0.0814085923554128
+"Global_cell_line_by_treatment_interaction",4,18,2.74860912043929,0.0604403518199088,27,"I_NFE2L2","Sensitivity",0.0814085923554128

@@ -1,0 +1,9 @@
+"contrast","features_tested","FDR_below_0_05","positive_FDR_below_0_05","negative_FDR_below_0_05"
+"HCT116_OxR_vs_Parental",32705,1053,608,445
+"HT29_OxR_vs_Parental",32705,2439,1081,1358
+"LoVo_OxR_vs_Parental",32705,1750,782,968
+"OxR_average_3_cell_lines",32705,2210,1041,1169
+"HCT116_SN38R_vs_Parental",32705,1292,591,701
+"HT29_SN38R_vs_Parental",32705,3416,1538,1878
+"LoVo_SN38R_vs_Parental",32705,6048,3185,2863
+"SN38R_average_3_cell_lines",32705,5039,2520,2519

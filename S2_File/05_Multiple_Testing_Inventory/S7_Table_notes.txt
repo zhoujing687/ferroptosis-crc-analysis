@@ -1,0 +1,4 @@
+BH means Benjamini-Hochberg. Families are documented as implemented in the archived code.
+This inventory does not establish that analyses were preregistered before outcomes were inspected.
+Diagnostic Shapiro-Wilk, Brown-Forsythe, and proportional-hazards tests are diagnostic screens; they were not included in efficacy families.
+No new p-values or correction scheme have been substituted in the archived analyses.

@@ -1,0 +1,2 @@
+"n","deaths","censored","median_followup_days","ci95_low_days","ci95_high_days","method"
+289,55,234,883,791,987,"Reverse Kaplan-Meier"

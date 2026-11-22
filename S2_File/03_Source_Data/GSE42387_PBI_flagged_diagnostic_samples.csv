@@ -1,0 +1,10 @@
+"score","score_label","label_number","sample","sample_title","cooks_distance"
+"P","Pressure (P)",1,"GSM1038668","HT29-SN38_rep3",0.278157617576758
+"P","Pressure (P)",2,"GSM1038671","LoVo_rep3",0.255187127185478
+"P","Pressure (P)",3,"GSM1038665","HT29-OxPt_rep3",0.247756557615417
+"B_NQO1","Buffering (B)",1,"GSM1038665","HT29-OxPt_rep3",0.2491067418411
+"B_NQO1","Buffering (B)",2,"GSM1038677","LoVo-SN38_rep3",0.225393836791857
+"B_NQO1","Buffering (B)",3,"GSM1038653","HCT116_rep3",0.172435542496861
+"I_NQO1","P-B index",1,"GSM1038671","LoVo_rep3",0.463310486625284
+"I_NQO1","P-B index",2,"GSM1038669","LoVo_rep1",0.245561370026678
+"I_NQO1","P-B index",3,"GSM1038668","HT29-SN38_rep3",0.207127048644571

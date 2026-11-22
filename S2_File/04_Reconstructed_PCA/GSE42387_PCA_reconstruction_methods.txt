@@ -1,0 +1,8 @@
+Reconstructed equivalent PCA; the historical PCA code was not archived.
+Input: archived processed log2-expression matrix, all 27 arrays and 32,705 features.
+Select 500 features with greatest sample variance across arrays (R var, denominator n-1).
+Transpose to samples by features, center each feature, do not variance-scale.
+PCA uses R prcomp singular value decomposition; signs of components are arbitrary.
+PC1 = 44.562486%; PC2 = 40.931249%.
+This describes global sample structure; it does not remove cell-line or batch effects.
+No sample was excluded and no inferential result was changed.

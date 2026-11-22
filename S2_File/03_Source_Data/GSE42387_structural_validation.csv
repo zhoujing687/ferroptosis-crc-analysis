@@ -1,0 +1,12 @@
+"metric","value"
+"features",32705
+"arrays",27
+"cell_lines",3
+"statuses",3
+"minimum_replicates_per_cell",3
+"missing_expression_values",0
+"target_genes",11
+"target_genes_with_valid_probe",11
+"target_genes_with_multiple_valid_probes",0
+"design_rank",9
+"design_columns",9

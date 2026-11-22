@@ -1,0 +1,15 @@
+"model","variable","VIF"
+"primary_joint_NQO1","P_perSD",1.09472890846919
+"primary_joint_NQO1","B_NQO1_perSD",1.08990737450989
+"primary_joint_NQO1","age10",1.02514096490946
+"primary_joint_NQO1","stageIII",1.03299687416719
+"secondary_index_NQO1","I_NQO1_perSD",1.00802956440036
+"secondary_index_NQO1","age10",1.02485519332748
+"secondary_index_NQO1","stageIII",1.03296885722961
+"sensitivity_joint_NFE2L2","P_perSD",1.23461937564394
+"sensitivity_joint_NFE2L2","B_NFE2L2_perSD",1.22928873702041
+"sensitivity_joint_NFE2L2","age10",1.02555968298891
+"sensitivity_joint_NFE2L2","stageIII",1.0331544388146
+"sensitivity_index_NFE2L2","I_NFE2L2_perSD",1.00833943916223
+"sensitivity_index_NFE2L2","age10",1.02475951083685
+"sensitivity_index_NFE2L2","stageIII",1.03308933434354

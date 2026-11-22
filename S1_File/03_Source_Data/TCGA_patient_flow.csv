@@ -1,0 +1,6 @@
+"step","unit","n","excluded_from_previous"
+"STAR-TPM sample columns","samples",514,
+"Primary tumor samples","samples",471,43
+"Unique primary-tumor patients","patients",458,13
+"Stage II-III patients","patients",305,153
+"Complete cases with follow-up >= minimum","patients",289,16
