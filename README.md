@@ -24,6 +24,30 @@ inside S1-S3 retain their original scope.
 
 Read [DEPENDENCIES.md](DEPENDENCIES.md) before running code.
 
+## Citation
+
+The analysis code is authored by Jing Zhou. [CITATION.cff](CITATION.cff)
+provides citation metadata for software version 1.0.0. A version DOI can be
+added after the corresponding Zenodo record is published.
+
+## License
+
+Copyright (c) 2026 Jing Zhou. The original R analysis code is available under
+the [MIT License](LICENSE). This grant applies to the original scripts in:
+
+- `S1_File/01_Code/*.R`
+- `S2_File/01_Code/*.R`
+- `S3_File/Code/*.R`
+- `S3_File/run_all.R`
+
+The MIT license in `CITATION.cff` describes the analysis software. It does not
+relicense the bundled input datasets, source-data or result tables, figures,
+or other third-party material. Third-party data retain their original rights,
+notices, and source terms, including those of TCGA/GDC, UCSC Xena, and NCBI GEO.
+See the input provenance in `S1_File/README_TCGA_COAD.md`,
+`S2_File/02_Input_Data/README.txt`, and `S3_File/README.md`.
+Licenses of external R packages and other dependencies remain unchanged.
+
 ## Run commands
 
 Commands below use paths relative to this folder. Run each block in a fresh

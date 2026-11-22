@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+type: software
+title: "Ferroptosis and drug resistance in colorectal cancer: Analysis code"
+version: "1.0.0"
+authors:
+  - family-names: Zhou
+    given-names: Jing
+    affiliation: "First Clinical Medical College, Zhejiang Chinese Medical University"
+license: MIT
+repository-code: "https://github.com/zhoujing687/ferroptosis-crc-analysis"
+abstract: >-
+  R analysis scripts for exploratory TCGA-COAD survival analyses, GSE42387
+  transcriptomic analyses, and reconstruction of five aggregate bibliometric
+  figure panels related to ferroptosis and colorectal cancer drug resistance.
+  The MIT license applies to the original analysis code; included third-party
+  data retain their source terms, as described in the README.
+keywords:
+  - ferroptosis
+  - colorectal cancer
+  - drug resistance
+  - bibliometrics
+  - transcriptomics
