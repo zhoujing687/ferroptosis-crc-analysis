@@ -1,0 +1,22 @@
+{
+  "assembled_at": "2026-11-22T07:20:39.325002+00:00",
+  "source_project": "PLOS_ONE_Revised_2026-11-21",
+  "copied_files": 108,
+  "zip_members_copied": 106,
+  "r_script_files": 13,
+  "distinct_r_script_contents": 12,
+  "checks": {
+    "zip_crc_and_paths": "passed",
+    "copied_member_bytes": "passed",
+    "source_hashes_unchanged": "passed",
+    "combined_figure_duplicates": "identical",
+    "S6_current_vs_archived": "identical",
+    "S7_original_8_columns_vs_current_core": "identical",
+    "S7_original_columns": 8,
+    "S7_current_columns": 14,
+    "S7_rows_excluding_header": 20
+  },
+  "statistical_models_rerun": false,
+  "external_data_downloaded": false,
+  "uploaded_or_published": false
+}

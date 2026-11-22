@@ -1,0 +1,25 @@
+Search expressions transcribed from manuscript Fig 1
+
+Publication window: 1 January 2012 through 31 December 2025.
+Recorded export date: 24 January 2026.
+Eligibility: English-language original articles and reviews.
+
+Web of Science Core Collection, Science Citation Index Expanded (SCIE)
+Search field: Topic (TS)
+
+TS = (("Rectal Neoplasm*" OR "Rectal Tumor*" OR "Rectal Cancer*" OR "Rectum Neoplasm*" OR "Rectum Cancer*" OR "Cancer of the Rectum" OR "Cancer of Rectum" OR "Colorectal Neoplasm*" OR "Colorectal Tumor*" OR "Colorectal Cancer*" OR "Colorectal Carcinoma*" OR "Colonic Neoplasm*" OR "Colon Neoplasm*" OR "Cancer of Colon" OR "Colon Cancer*" OR "Cancer of the Colon" OR "Colonic Cancer*" OR "CRC" OR "colon adenocarcinoma*" OR "rectal adenocarcinoma*") AND ("ferroptosis" OR "iron-dependent cell death" OR "GPX4" OR "SLC7A11" OR "ACSL4" OR "FSP1" OR "iron metabolism" OR "lipid peroxid*" OR "ROS" OR "reactive oxygen species") AND ("drug resist*" OR "medicine resist*" OR "agent resist*" OR "antineoplastic agent resist*" OR "antineoplastic drug resist*" OR "antineoplastic resist*" OR "multidrug resist*"))
+
+Scopus
+Search field: TITLE-ABS-KEY
+
+TITLE-ABS-KEY(("Rectal Neoplasm*" OR "Rectal Tumor*" OR "Rectal Cancer*" OR "Rectum Neoplasm*" OR "Rectum Cancer*" OR "Cancer of the Rectum" OR "Cancer of Rectum" OR "Colorectal Neoplasm*" OR "Colorectal Tumor*" OR "Colorectal Cancer*" OR "Colorectal Carcinoma*" OR "Colonic Neoplasm*" OR "Colon Neoplasm*" OR "Cancer of Colon" OR "Colon Cancer*" OR "Cancer of the Colon" OR "Colonic Cancer*" OR "CRC" OR "colon adenocarcinoma*" OR "rectal adenocarcinoma*") AND ("ferroptosis" OR "iron-dependent cell death" OR "GPX4" OR "SLC7A11" OR "ACSL4" OR "FSP1" OR "iron metabolism" OR "lipid peroxid*" OR "ROS" OR "reactive oxygen species") AND ("drug resist*" OR "medicine resist*" OR "agent resist*" OR "antineoplastic agent resist*" OR "antineoplastic drug resist*" OR "antineoplastic resist*" OR "multidrug resist*")) AND (PUBYEAR > 2011 AND PUBYEAR < 2026)
+
+Interpretation and provenance
+
+These strings reproduce the displayed Boolean expressions. In Fig 1, the WoS expression does not contain its year filter, whereas the Scopus expression does. The figure lists English language and Article/Review eligibility separately. The archived materials do not establish whether each restriction was applied using an interface filter or during subsequent screening. This transcription therefore does not add guessed filter syntax or claim an exact rerun of the historical interface session.
+
+The ferroptosis-related domain uses OR alternatives that include ROS, iron metabolism, and lipid peroxidation. A record can meet this domain without explicitly mentioning ferroptosis. Topic relevance was screened as described in Methods. The exported counts were 472 WoSCC and 624 Scopus records; 326 combined exclusions yielded 770 retained documents (518 articles and 252 reviews). The archive has no per-reason exclusion ledger. Subscription entitlements, index updates, and later citation accrual can change current retrieval results.
+
+Third-party access
+
+Obtain appropriate access directly from Web of Science (https://www.webofscience.com/) and Scopus (https://www.scopus.com/). Record-level exports are not included in this supplementary archive. Users must follow their own database licence terms. Aggregate panel inputs and plotting code distributed here can be used without access to the licensed exports.

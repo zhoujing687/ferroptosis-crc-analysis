@@ -1,0 +1,22 @@
+Item,Input or data,Code or provenance,Archived output,Scope and limitation
+Fig 1,Displayed database expressions and retained counts,Search_Strategies.txt,Separate Fig1.tif,Original interface filter state and reason-specific screening ledger unavailable
+Fig 2,TCGA and GEO sample metadata,S1 File and S2 File,Separate Fig2.tif,Rules and final cohorts; detailed TCGA flow in S1 File
+Fig 3A,Historical Biblioshiny import summary,Original software summary,Separate Fig3.tif,Software-specific import count; historical full project not archived
+Fig 3B,Input_Data/Annual_Publication_Counts_2012_2025.csv,Code/01_Fig3B_Annual_Publication_Trend.R,Source_Data/Fig3B_Observed_and_Fitted.csv,Nonlinear least-squares fit to aggregate annual counts
+Fig 3C-D,Input_Data/Lifecycle_Model_Parameters.csv,Code/02_Fig3CD_Publication_Lifecycle.R,Source_Data/Fig3CD_Observed_and_Model_Values.csv,Reconstructs fixed recorded parameters; not a new fit or validated forecast
+Fig 4,Historical bibliometric network and country data,Original VOSviewer/CiteSpace/Biblioshiny outputs,Separate Fig4.tif and S1-S2 Tables,Full mapping dictionaries and geographic base-layer licence must be retained by authors
+Fig 5A-C and E-F,Historical journal and network analyses,Original VOSviewer/CiteSpace/Biblioshiny outputs,Separate Fig5.tif and S3 Table,TC pools retained database-wide counts; cannot reconstruct duplicate source selection
+Fig 5D,Input_Data/Journal_Production_Over_Time.xlsx,Code/03_Fig5D_Journal_Publication_Trends.R,Source_Data/Fig5D_Plotted_Data.csv,Original main composite retained; PLOS ONE 2017 is 5 in original artwork versus 10 in source data; source values unchanged
+Fig 6A-B,Historical author records and networks,Original Biblioshiny/VOSviewer/CiteSpace outputs,Separate Fig6.tif and S4 Table,No complete common author-identity crosswalk archived
+Fig 6C,Input_Data/Author_Production_Over_Time.xlsx,Code/04_Fig6C_Author_Production_Over_Time.R,Source_Data/Fig6C_Plotted_Data.csv,Reproduces panel from aggregate author-year data
+Fig 7,Historical reference network and bursts,Original CiteSpace/Biblioshiny output,Separate Fig7.tif and S5 Table,Original local-citation ranking retained; full project and matching settings not supplied
+Fig 8,Historical cleaned author keywords,Original VOSviewer/CiteSpace output,Separate Fig8.tif,53 nodes at minimum frequency7 for VOSviewer; other project settings as reported in Methods
+Fig 9,Historical thematic and three-field data,Original Biblioshiny output,Separate Fig9.tif,Full import and thematic settings not archived
+Fig 10A-C,TCGA archived clinical files and external Xena matrix,S1 File,TCGA figure source CSVs in S1 File,External expression input retrieved through public Xena link; compare supplied checksums
+Fig 10D-E,GSE42387 processed matrix and GPL16297,S2 File with full-feature tables in S4-S5 Files,Source data and estimates in S2 File,Target and full-feature multiplicity families listed in S7 Table
+Fig 11-12 and S1 Fig,GSE42387 target mappings and contrasts,S2 File,Target expression and limma tables in S2 File,Plots show10 primary genes; BH across11 targets; NFE2L2 shown separately
+Fig 13,Mechanism-informed conceptual synthesis,Published references in figure legend,Separate Fig13.tif,BioRender publication licence requires author confirmation; no new functional measurements
+Table 1,Published CMS features and conceptual hypotheses,References and note in main table,Native LaTeX table,Mechanistic extrapolation; no measured CMS-specific phenotypes
+S2-S3 Fig,GSE42387 composites and fixed-effects diagnostics,S2 File,Separate supplementary figure TIFF files,All27 arrays retained; influence is diagnostic only
+S6 Table,Archived TCGA289-patient analysis dataset,S1 File and baseline generation record,S6_Table.docx and matching CSV,Descriptive complete-case cohort
+S7 Table,Actual scripts and archived test outputs,S1-S2 Files,S7_Table.docx and matching CSV,Family sizes verified from implementation
